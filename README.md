@@ -13,8 +13,8 @@ The Bank Management System is a Java-based application designed to manage variou
 ## Technologies Used
 - **Programming Language:** Java
 - **Database:** SQLite
-- **GUI Framework:** Swing (Optional, if used)
-- **Build Tool:** Apache Maven or Gradle (Optional, if used)
+- **GUI Framework:** Swing 
+- **Build Tool:** Apache Maven or Gradle 
 
 ## Installation
 
